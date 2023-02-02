@@ -6,6 +6,7 @@ function Text() {
     padding: "8px",
     width: "92%",
     marginBottom: "20px",
+    resize:"none"
   };
 
   return (
